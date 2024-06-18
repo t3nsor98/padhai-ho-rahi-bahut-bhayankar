@@ -1,0 +1,1 @@
+// in charo me se kisi ek aur jyada ka use karke Inheritance ka istemal karne ko Hybrid Inheritance bolte he
